@@ -1,4 +1,4 @@
-## Olá, meu nome é Rafael 👋
+### Olá, meu nome é Rafael 👋
 Apaixonado por tecnologia e programação.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael_bastoos/)
